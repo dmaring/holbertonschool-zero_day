@@ -1,0 +1,1 @@
+This project is for practicing and using emacs in the day zero curriculum.
