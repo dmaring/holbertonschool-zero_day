@@ -1,1 +1,1 @@
-This project is to complete the project for editing with vi.
+This project is to show how to use vi.

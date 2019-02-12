@@ -1,4 +1,5 @@
-This repo is to hold the classwork assigned for day zero at Holberton School.
+# Holberton Day Zero
+### This project is to practice learning vagrant, emacs, and vi.
 
 What is a virtual machine
 In computing, a virtual machine (VM) is an emulation of a computer system. 
